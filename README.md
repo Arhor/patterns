@@ -1,1 +1,1 @@
-# patterns
+# Java-based implementation of Design Patters
