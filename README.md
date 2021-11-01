@@ -2,6 +2,8 @@
 
 ## Implemented patterns
 
-### Creational
+- Creational
+  - Builder
 
-- Builder
+- Behavioral
+  - Observer
